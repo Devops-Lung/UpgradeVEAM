@@ -4,12 +4,12 @@ _Hello Anh Em_
 
 ## 1. Stop all Veeam services on the Veeam Backup Server.
 
-Get-Service Veeam* | Stop-Service -Force
+   Get-Service Veeam* | Stop-Service -Force
 
 ## 2. Run Install VEAM 
 
 ## 3. Start VEAM agian
 
-Get-Service Veeam* | Start-Service
+   Get-Service Veeam* | Start-Service
 
 # Good luck!
