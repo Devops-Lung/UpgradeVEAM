@@ -8,7 +8,7 @@ _Hello Anh Em_
       
   ##  2. Run Install VEAM 
 
-  ## 3. Start VEAM agian
+  ## 3. Start VEAM again
 
        Get-Service Veeam* | Start-Service
 
